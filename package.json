@@ -1,0 +1,23 @@
+{
+  "name": "alfen-modbus-tcp-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A-Lehmann-Elektro-AG/alfen-modbus-tcp-example.git"
+  },
+  "author": "Marco Lehmann - A. Lehmann Elektro AG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/A-Lehmann-Elektro-AG/alfen-modbus-tcp-example/issues"
+  },
+  "homepage": "https://github.com/A-Lehmann-Elektro-AG/alfen-modbus-tcp-example#readme",
+  "dependencies": {
+    "modbus-serial": "^8.0.5"
+  }
+}
